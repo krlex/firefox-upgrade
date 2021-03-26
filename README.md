@@ -13,3 +13,6 @@ Before you start script you must have also install:
 ```
 
 This script is for Firefox upgrade for downloaded from official site
+
+## One-line command for quick update 
+      bash <(curl -sL https://raw.githubusercontent.com/krlex/firefox-upgrade/master/script.sh)
